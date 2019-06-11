@@ -1,0 +1,11 @@
+/Users/shefalivashishtha/Projects/something/bin/Debug/netcoreapp2.1/something.deps.json
+/Users/shefalivashishtha/Projects/something/bin/Debug/netcoreapp2.1/something.runtimeconfig.json
+/Users/shefalivashishtha/Projects/something/bin/Debug/netcoreapp2.1/something.runtimeconfig.dev.json
+/Users/shefalivashishtha/Projects/something/bin/Debug/netcoreapp2.1/something.dll
+/Users/shefalivashishtha/Projects/something/bin/Debug/netcoreapp2.1/something.pdb
+/Users/shefalivashishtha/Projects/something/obj/Debug/netcoreapp2.1/something.csprojAssemblyReference.cache
+/Users/shefalivashishtha/Projects/something/obj/Debug/netcoreapp2.1/something.csproj.CoreCompileInputs.cache
+/Users/shefalivashishtha/Projects/something/obj/Debug/netcoreapp2.1/something.AssemblyInfoInputs.cache
+/Users/shefalivashishtha/Projects/something/obj/Debug/netcoreapp2.1/something.AssemblyInfo.cs
+/Users/shefalivashishtha/Projects/something/obj/Debug/netcoreapp2.1/something.dll
+/Users/shefalivashishtha/Projects/something/obj/Debug/netcoreapp2.1/something.pdb
